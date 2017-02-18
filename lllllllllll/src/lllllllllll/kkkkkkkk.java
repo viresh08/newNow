@@ -6,5 +6,10 @@ public class kkkkkkkk {
 	{
 		System.out.println("This is a local repository");
 	}
+	
+	public void take()
+	{
+		System.out.println("This is the work");
+	}
 
 }
