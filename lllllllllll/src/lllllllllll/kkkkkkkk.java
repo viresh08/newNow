@@ -71,8 +71,15 @@ public class kkkkkkkk {
 		System.out.println("this is the pp");
 	}
 	
+
 	public void bb()
 	{
 		System.out.println("this is a remote repository");
+	}
+
+	public void rar()
+	{
+		System.out.println("this is rar file");
+
 	}
 }
