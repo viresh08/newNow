@@ -60,8 +60,15 @@ public class kkkkkkkk {
 		System.out.println("this is another method");
 	}
 	
+
 	public void qq()
 	{
 		System.out.println("this is the qq");
+
+	}
+	public void pp()
+	{
+		System.out.println("this is the pp");
+
 	}
 }
