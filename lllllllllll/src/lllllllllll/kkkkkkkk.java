@@ -49,4 +49,9 @@ public class kkkkkkkk {
 		System.out.println("this is tt");
 
 	}
+	
+	public void tatte()
+	{
+		System.out.println("this is another method");
+	}
 }
