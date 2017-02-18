@@ -23,5 +23,10 @@ public class kkkkkkkk {
 	{
 		System.out.println("this is new method from the new machine");
 	}
+	
+	public void set()
+	{
+		System.out.println("This is the new setter method");
+	}
 
 }
