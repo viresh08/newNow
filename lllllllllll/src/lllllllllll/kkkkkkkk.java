@@ -34,4 +34,8 @@ public class kkkkkkkk {
 		System.out.println("fetch the update");
 	}
 
+	public void sameTosame()
+	{
+		System.out.println("this is same to same method");
+	}
 }
