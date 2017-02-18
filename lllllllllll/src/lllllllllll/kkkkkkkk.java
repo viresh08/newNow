@@ -69,6 +69,10 @@ public class kkkkkkkk {
 	public void pp()
 	{
 		System.out.println("this is the pp");
-
+	}
+	
+	public void bb()
+	{
+		System.out.println("this is a remote repository");
 	}
 }
