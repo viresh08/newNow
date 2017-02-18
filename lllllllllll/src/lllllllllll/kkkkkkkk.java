@@ -18,5 +18,10 @@ public class kkkkkkkk {
 		System.out.println("this is from laptop");
 
 	}
+	
+	public void nrM()
+	{
+		System.out.println("this is new method from the new machine");
+	}
 
 }
