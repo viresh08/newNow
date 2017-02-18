@@ -53,4 +53,9 @@ public class kkkkkkkk {
 	{
 		System.out.println("this is the vv method");
 	}
+	
+	public void tatte()
+	{
+		System.out.println("this is another method");
+	}
 }
