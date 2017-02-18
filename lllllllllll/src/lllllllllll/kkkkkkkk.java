@@ -38,4 +38,9 @@ public class kkkkkkkk {
 	{
 		System.out.println("this is same to same method");
 	}
+	
+	public void tt()
+	{
+		System.out.println("this is tt");
+	}
 }
