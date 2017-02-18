@@ -24,4 +24,8 @@ public class kkkkkkkk {
 		System.out.println("this is new method from the new machine");
 	}
 
+	public void sameTosame()
+	{
+		System.out.println("this is same to same method");
+	}
 }
