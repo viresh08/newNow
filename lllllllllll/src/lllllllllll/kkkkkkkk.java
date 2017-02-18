@@ -28,5 +28,10 @@ public class kkkkkkkk {
 	{
 		System.out.println("This is the new setter method");
 	}
+	
+	public void rr()
+	{
+		System.out.println("fetch the update");
+	}
 
 }
