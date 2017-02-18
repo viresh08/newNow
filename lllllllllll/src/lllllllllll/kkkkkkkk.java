@@ -58,4 +58,9 @@ public class kkkkkkkk {
 	{
 		System.out.println("this is another method");
 	}
+	
+	public void pp()
+	{
+		System.out.println("this is the pp");
+	}
 }
