@@ -47,6 +47,10 @@ public class kkkkkkkk {
 	public void tt()
 	{
 		System.out.println("this is tt");
-
+	}
+	
+	public void vv()
+	{
+		System.out.println("this is the vv method");
 	}
 }
