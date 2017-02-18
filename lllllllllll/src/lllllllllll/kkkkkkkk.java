@@ -38,4 +38,8 @@ public class kkkkkkkk {
 	{
 		System.out.println("this is same to same method");
 	}
+	public void ff()
+	{
+		System.out.println("this is the new meethod");
+	}
 }
